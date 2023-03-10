@@ -1,9 +1,0 @@
-git = comandos de git
-git status = archivos y  sus estados
-git add = aderir archivos a una rama
-git add . = agrega todos los archivos a una rama
-git commit -m "mensaje" = se usa para commiter o terminar de enviar el documento
-git tag -a version -m "mensaje"
-
-pruebaaa
-ggggg
